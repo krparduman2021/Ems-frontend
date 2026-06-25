@@ -12,7 +12,7 @@ function App() {
     salary: "",
   });
 
-  const API_URL = "http://localhost:3000/employees";
+  const API_URL = "https://ems-backend-m35r.onrender.com/employees";
 
   // FETCH EMPLOYEES
 
